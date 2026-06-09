@@ -160,7 +160,7 @@ H = 300
 BG = (100, 200, 200)
 s = 0.4 #higher values mean more snow is displayed
 d = 0.3 #lower values mean more desert is displayed
-worldseed = 1 #manually force the worldseed here
+worldseed = None #manually force the worldseed here
 
 hW = W//2
 hH = H//2
